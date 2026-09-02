@@ -1,0 +1,6 @@
+[workspace]
+resolver = "2"
+members = [
+    "jmx-lint",
+]
+default-members = ["./jmx-lint"]
